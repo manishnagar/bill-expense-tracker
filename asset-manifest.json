@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bill-expense-tracker/static/css/main.071c9bbb.css",
+    "main.js": "/bill-expense-tracker/static/js/main.5346dc91.js",
+    "index.html": "/bill-expense-tracker/index.html",
+    "main.071c9bbb.css.map": "/bill-expense-tracker/static/css/main.071c9bbb.css.map",
+    "main.5346dc91.js.map": "/bill-expense-tracker/static/js/main.5346dc91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071c9bbb.css",
+    "static/js/main.5346dc91.js"
+  ]
+}
